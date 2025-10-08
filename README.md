@@ -1,4 +1,4 @@
-## Análise Estatística e Visualização de Dados 
+# Análise Estatística e Visualização de Dados 
 #### Análise de Produtos de um Supermercado no Chile
 
 Este projeto faz parte do Módulo de Estatística Básica da EBAC e tem como objetivo aplicar conceitos estatísticos e de visualização de dados sobre uma base real de produtos de um supermercado chileno.
